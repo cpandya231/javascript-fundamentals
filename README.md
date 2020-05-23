@@ -7,12 +7,22 @@ This project will provide fundamental concepts of Javascript. This will be one s
  * [IIFE](#iife)
  * [Scope](#scope)
  * [Callback](#callback)
- * [Promise and Async Await](#promise)
- 
+ * [Promise and Async Await](#promise-and-async-await)
  
  
  ## Hoisting
-*Host the JavaScript libraries and provide tools for fetching and packaging them.*
+* Conceptually, Javascript moves all variables, functions, class to the top of the code. This is called Hoisting.
+* Javascript does not reshuffle any code but at compile time it identifies variable, function declaration first. Variable assignment happens at later stage.
+
+#### Example
+```
+var myName;
+console.log(myName);
+myName = ‘Sunil’;
+
+Result:
+{level: "ERROR", line: -12, message: "Uncaught SyntaxError: Invalid or unexpected token", type: "js"}
+```
 
  ## Callstack
 *Host the JavaScript libraries and provide tools for fetching and packaging them.*
