@@ -1,4 +1,4 @@
-# Javascript Fundamentals
+# Javascript Fundamentals [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/cpandya231/javascript-fundamentals)
 
 This project will provide fundamental concepts of Javascript. This will be one shop stop to get the basics right and also work as a flashcards.
 
