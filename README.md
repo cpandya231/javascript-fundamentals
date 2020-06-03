@@ -29,6 +29,8 @@ udenfined
 * Keep in mind that window object has 'name' property. So we can use 'name' without assigning/declaring it. In this case we won't get udefined.
 * As mentioned before all values var, let, const, function and class are hoisted.
 
+* [Reference](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+
  ## let vs var
 
 * var is function scope, let is block scope
